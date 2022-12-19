@@ -2,4 +2,4 @@
 
 Try it now!
 
-https://share-on-ipfs.github.io/share-on-ipfs
+https://share-on-ipfs.github.io
